@@ -4737,7 +4737,7 @@ http://gargoyle.tomkow.pl/hls/tvt.m3u8
 http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
 #EXTINF:-1 tvg-name="TV Trwam"  tvg-id="" group-title="POLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/d/db/TV_Trwam_Logo.png/300px-TV_Trwam_Logo.png",TV Trwam
 http://trwamtv.live.e55-po.insyscd.net/trwamtv2.smil/chunklist_b950000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="****************** Czech Republic **********",****************** Czech Republic **********
+#EXTINF:-1 tvg-id="" tvg-name="********f**** Czech Republic **********",****************** Czech Republic **********
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Elektrika TV" tvg-logo="https://i.imgur.com/rl09RVe.png" group-title="Czech Republic",Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
@@ -6634,23 +6634,3 @@ https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/
 https://zmlive.zappingtv.com/zm_free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZWEI2 Music (Not until Kodi 19!)" tvg-logo="https://i.imgur.com/VVwHID9.png" group-title="MUSIK",ZWEI2 Music (Not until Kodi 19!)
 https://lemp.smmx.dev/streams/ch-2/master.m3u8
-#EXTINF:-1 tvg-name="****** GERMANY ******" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/gJGRDcn.jpg",****** GERMANY ******
-https://
-#EXTINF:-1 tvg-name="105'5 Spreeradio" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/SfdY3rr.png",105'5 Spreeradio
-http://stream.spreeradio.de/spree-live/mp3-128/konsole
-#EXTINF:-1 tvg-name="105'5 Spreeradio 80er" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/1iayQmM.png",105'5 Spreeradio 80er
-http://stream.spreeradio.de/spree-80er/mp3-128/konsole
-#EXTINF:-1 tvg-name="AFN Wiesbaden" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/MjuO9lL.jpg",AFN Wiesbaden
-https://22603.live.streamtheworld.com/AFNE_WBN_SC?csegid=15
-#EXTINF:-1 tvg-name="Ems Vechte Welle" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/bPCsrYQ.jpg",Ems Vechte Welle
-https://live.radio-aktiv.de/evw.mp3
-#EXTINF:-1 tvg-name="Nostalgie Route 66" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/Y6bNYBf.jpg",Nostalgie Route 66
-http://cdn.nrjaudio.fm/adwz1/de/57485/mp3_128.mp3
-#EXTINF:-1 tvg-name="Rock Antenne" group-title="RADIO GERMANY" radio="true" tvg-logo="https://i.imgur.com/eZKNvkT.png",Rock Antenne
-https://stream.rockantenne.de/rockantenne/stream/mp3
-#EXTINF:-1 tvg-name="****** USA ******" group-title="RADIO" radio="true" tvg-logo="https://i.imgur.com/FDdeKor.png",****** USA ******
-https://
-#EXTINF:-1 tvg-name="Fun Radio 92.7 Alabama" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/uHm1KSm.png",Fun Radio 92.7 Alabama
-https://ais-edge08-live365-dal02.cdnstream.com/a20884
-#EXTINF:-1 tvg-name="Thebig1510.com New Jersey" group-title="RADIO USA" radio="true" tvg-logo="https://i.imgur.com/1z6u6ye.jpg",Thebig1510.com New Jersey
-https://ais-edge09-live365-dal02.cdnstream.com/a23482
