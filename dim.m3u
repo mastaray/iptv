@@ -484,7 +484,7 @@ https://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="",A: CON TV
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" tvg-url="" group-title="",Aaj Tak (720p)
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="",Aaj Tak (576p)
 https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Tamil" tvg-logo="" tvg-url="" group-title="Entertainment",Aarya Premiere (720p)
