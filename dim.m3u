@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="" tvg-logo="" tvg-url="" group-title="",& PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="+24" tvg-country="ES" tvg-language="Spanish;English" tvg-logo="https://graph.facebook.com/24htve/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="",+24
@@ -6415,12 +6415,7 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="English" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-url="" group-title="Sport",World Of Free Sports TV
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/Nus9e8M.jpg" tvg-url="" group-title="Sport",World Poker Tour
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="Spanish" tvg-logo="https://i0.wp.com/unored.tv/wp-content/uploads/2015/08/WORO.jpg" tvg-url="" group-title="",Woro Canal 13 (Puerto Rico)
-https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://i.imgur.com/iNmceyy.png" tvg-url="" group-title="",Wow (El Salvador) (720p)
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="",WOW! TV (720p)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="",WOW! TV (720p)
