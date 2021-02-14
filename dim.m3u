@@ -1,128 +1,224 @@
 #EXTM3U
-#EXTINF:-1,FOX
-http://217.199.128.114:4022/udp/235.255.1.78:5614
-#EXTINF:-1,OBN
-http://217.199.128.114:4022/udp/235.255.1.34:5254
-#EXTINF:-1,RT DOC
-http://217.199.128.114:4022/udp/235.255.1.36:5254
-#EXTINF:-1,RTL 2 TELEVIZIJA
-http://217.199.128.114:4022/udp/235.255.1.33:5224
-#EXTINF:-1,LOV I RIBOLOV
-http://217.199.128.114:4022/udp/235.255.1.32:5214
-#EXTINF:-1,SK 2
-http://217.199.128.114:4022/udp/235.255.1.31:5204
-#EXTINF:-1,SVET PLUS
-http://217.199.128.114:4022/udp/235.255.1.38:5274
-#EXTINF:-1,OTV VALENTINO
-http://217.199.128.114:4022/udp/235.255.1.39:5284
-#EXTINF:-1,RTRS
-http://217.199.128.114:4022/udp/235.255.1.40:5294
-#EXTINF:-1,FASHION
-http://217.199.128.114:4022/udp/235.255.1.41:5304
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://217.199.128.114:4022/udp/235.255.1.42:5314
-#EXTINF:-1,NAT GEO WILD
-http://217.199.128.114:4022/udp/235.255.1.43:5324
-#EXTINF:-1,HISTORY CHANNEL
-http://217.199.128.114:4022/udp/235.255.1.45:5334
-#EXTINF:-1,TRAVEL CHANNEL
-http://217.199.128.114:4022/udp/235.255.1.47:5344
-#EXTINF:-1,HRT 3
-http://217.199.128.114:4022/udp/235.255.1.48:5354
-#EXTINF:-1,DISCOVERY
-http://217.199.128.114:4022/udp/235.255.1.49:5364
-#EXTINF:-1,EUROSPORT
-http://217.199.128.114:4022/udp/235.255.1.50:5374
-#EXTINF:-1,EUROSPORT 2
-http://217.199.128.114:4022/udp/235.255.1.51:5384
-#EXTINF:-1,SK 1
-http://217.199.128.114:4022/udp/235.255.1.52:5394
-#EXTINF:-1,ANIMAL PLANET
-http://217.199.128.114:4022/udp/235.255.1.53:5404
-#EXTINF:-1,FOX LIFE
-http://217.199.128.114:4022/udp/235.255.1.54:5414
-#EXTINF:-1,FOX CRIME
-http://217.199.128.114:4022/udp/235.255.1.55:5424
-#EXTINF:-1,TV1000
-http://217.199.128.114:4022/udp/235.255.1.56:5434
-#EXTINF:-1,CBS DRAMA
-http://217.199.128.114:4022/udp/235.255.1.57:5444
-#EXTINF:-1,UNIVERSAL CHANNEL
-http://217.199.128.114:4022/udp/235.255.1.58:5454
-#EXTINF:-1,CARTOON NETWORK
-http://217.199.128.114:4022/udp/235.255.1.59:5464
-#EXTINF:-1,BOOMERANG
-http://217.199.128.114:4022/udp/235.255.1.61:5474
-#EXTINF:-1,SUPER RTL
-http://217.199.128.114:4022/udp/235.255.1.62:5484
-#EXTINF:-1,GRAND TV (t*)
-http://217.199.128.114:4022/udp/235.255.1.63:5494
-#EXTINF:-1,TV5 MONDE
-http://217.199.128.114:4022/udp/235.255.1.64:5504
-#EXTINF:-1,TVE
-http://217.199.128.114:4022/udp/235.255.1.65:5514
-#EXTINF:-1,CNN
-http://217.199.128.114:4022/udp/235.255.1.68:5524
-#EXTINF:-1,SAUDI CHANNEL
-http://217.199.128.114:4022/udp/235.255.1.69:5534
-#EXTINF:-1,RAI 1
-http://217.199.128.114:4022/udp/235.255.1.70:5544
-#EXTINF:-1,VOX
-http://217.199.128.114:4022/udp/235.255.1.72:5554
-#EXTINF:-1,HRT 4
-http://217.199.128.114:4022/udp/235.255.1.73:5564
-#EXTINF:-1,ASK INTERNI KANAL
-http://217.199.128.114:4022/udp/235.255.1.74:5574
-#EXTINF:-1,CRIME & INVESTIGATION
-http://217.199.128.114:4022/udp/235.255.1.75:5584
-#EXTINF:-1,AL JAZEERA
-http://217.199.128.114:4022/udp/235.255.1.79:5624
-#EXTINF:-1,BN MUSIC
-http://217.199.128.114:4022/udp/235.255.1.80:5634
-#EXTINF:-1,KABEL 1
-http://217.199.128.114:4022/udp/235.255.1.81:5644
-#EXTINF:-1,ARENA 1
-http://217.199.128.114:4022/udp/235.255.1.82:5654
-#EXTINF:-1,ARENA 2
-http://217.199.128.114:4022/udp/235.255.1.83:5664
-#EXTINF:-1,ARENA 3
-http://217.199.128.114:4022/udp/235.255.1.84:5674
-#EXTINF:-1,ARENA 4
-http://217.199.128.114:4022/udp/235.255.1.85:5684
-#EXTINF:-1,RTCG SAT
-http://217.199.128.114:4022/udp/235.255.1.30:5194
-#EXTINF:-1,RTS SAT
-http://217.199.128.114:4022/udp/235.255.1.29:5184
-#EXTINF:-1,PRO 7
-http://217.199.128.114:4022/udp/235.255.1.28:5174
-#EXTINF:-1,FACE TV
-http://217.199.128.114:4022/udp/235.255.1.27:5164
-#EXTINF:-1,RTL 2
-http://217.199.128.114:4022/udp/235.255.1.26:5154
-#EXTINF:-1,HRT 2
-http://217.199.128.114:4022/udp/235.255.1.24:5144
-#EXTINF:-1,HRT 1
-http://217.199.128.114:4022/udp/235.255.1.23:5134
-#EXTINF:-1,VIVA (t*)
-http://217.199.128.114:4022/udp/235.255.1.21:5114
-#EXTINF:-1,ALJAZEERA BALKANS
-http://217.199.128.114:4022/udp/235.255.1.20:5104
-#EXTINF:-1,TV 1
-http://217.199.128.114:4022/udp/235.255.1.18:5084
-#EXTINF:-1,RTL TELEVIZIJA
-http://217.199.128.114:4022/udp/235.255.1.17:5074
-#EXTINF:-1,PINK BH
-http://217.199.128.114:4022/udp/235.255.1.16:5064
-#EXTINF:-1,HAYAT FOLK
-http://217.199.128.114:4022/udp/235.255.1.15:5054
-#EXTINF:-1,HAYAT TV
-http://217.199.128.114:4022/udp/235.255.1.13:5044
-#EXTINF:-1,TVSA
-http://217.199.128.114:4022/udp/235.255.1.12:5034
-#EXTINF:-1,TVFBIH
-http://217.199.128.114:4022/udp/235.255.1.11:5024
-#EXTINF:-1,BHT 1
-http://217.199.128.114:4022/udp/235.255.1.10:5014
+#EXTINF:0 tvg-country="BA" tvg-logo="" group-title="Undefined",ANIMAL PLANET HD
+http://attacktv.ddns.net:2052/12345/54321/42335?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="" group-title="Undefined",Alternativna TV
+http://attacktv.ddns.net:2052/12345/54321/42334?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="https://i.imgur.com/fdd1oQP.png" group-title="Undefined",B1 TV,BA | B1 TV
+http://wowza.bihnet.net:88/hls/b1-live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="" group-title="Undefined",BN MUSIC HD
+http://attacktv.ddns.net:2052/12345/54321/42350?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="" group-title="Undefined",CITY TV
+http://attacktv.ddns.net:2052/12345/54321/42355?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="" group-title="Undefined",FACE HD
+http://attacktv.ddns.net:2052/12345/54321/42363?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="" group-title="Undefined",FOX
+http://attacktv.ddns.net:2052/12345/54321/42366?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="" group-title="Undefined",HAYAT HD
+http://attacktv.ddns.net:2052/12345/54321/42372?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="" group-title="Undefined",HAYATOVCI
+http://attacktv.ddns.net:2052/12345/54321/42376?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BA" tvg-logo="" group-title="Undefined",Hayat Music
+http://attacktv.ddns.net:2052/12345/54321/42373?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",-----------  SPORT -----------
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulZQuhh9qknBNzIdAqhy6S38/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",------------  PAKO DIGITALB  ------------
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulafQfqCXTdN_f4KPlEw5F2E/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",------------  PAKO MUZIK  ------------
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulU6Mjs5V6rxqdanGCoaH1Dw/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",------------  PAKO TRING  ------------
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulaxvA_v76ypSWVmwQ3wRO_c/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",-----Femije-----
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36674?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",-----Muzik-----
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36693?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",21 HD
+http://www.iptvhdtr.xyz:8080/necdet/necdet/101794?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",21 Plus HD (AL)
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulag8JvcfB6T_LwrRweavGb8/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",3 Plus
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36639?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",8ova islam HD
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/1281?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 REPORT
+http://mags.vip:2086/live/miriam/miriam123/93111.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 Report
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36717?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 Report AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/19589?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",A1 Shqiptare AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/19776?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC NEWS
+http://mags.vip:2086/live/miriam/miriam123/93113.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="News",ABC News
+http://alontv.info:8000/live/ontvtest/172722/119.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ABC News
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1293?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="News",ABC News AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/19576?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="News",ABC news
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/26?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/GAx0LDU.png" group-title="Undefined",AL | Ora News,Ora News
+https://tv.oranews.tv/live/oranews/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB Kids
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36690?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB Swisse HD
+http://alontv.info:8000/live/ontvtest/172722/144.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB THRILLER
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68712?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALB UK
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36648?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALSAT TV
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68713?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ALSATM
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68714?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ART Doku 2 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1308?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 1 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1434?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 2 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1435?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",ART Sport 3 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1436?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ARTA
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68715?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Action HD AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/19569?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Comedy HD
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/11230?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Folk AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/9082?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Hits AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/9111?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Horror HD
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/11231?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Humor
+http://www.iptvhdtr.xyz:8080/necdet/necdet/101797?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Humor
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36738?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Music",Alb Music FHD AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/9079?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Swiss HD MUSIC
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1334?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Thriller
+http://www.iptvhdtr.xyz:8080/necdet/necdet/101799?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Thriller
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36791?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Thriller HD
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/11229?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb Thriller HD AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/19570?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alb UK TV
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1266?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M
+http://www.iptvhdtr.xyz:8080/necdet/necdet/101801?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36633?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M
+http://alontv.info:8000/live/ontvtest/172722/18.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M (AL)
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulZtaMNfUqJyxnd5atlqE4UQ/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M FHD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1241?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Alsat M HD
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/139?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36671?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Animal Planet HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1303?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Antena TV Shkoder
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1288?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Doku 1 HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1307?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 2 HD
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/4367?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Art Kino 3 HD
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/4368?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 1 HD (AL)
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulUE8mE3Fg4b_bK1WZPIHaOo/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 2 HD (AL)
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulW-lPx-laNipTwQNf--gw6I/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",Art Sport 3 HD (AL)
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulau9yJXkrLXb7qGdRiabtVw/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="News",Arta News
+http://alontv.info:8000/live/ontvtest/172722/117.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Arta News HD
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36641?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Arta News HD
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1299?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Ashkali TV
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/10203?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B ACTION
+http://mags.vip:2086/live/miriam/miriam123/93114.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B HITS
+http://mags.vip:2086/live/miriam/miriam123/93117.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",B THRILLER
+http://mags.vip:2086/live/miriam/miriam123/93118.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BABY TV
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68716?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BABY TV
+http://mags.vip:2086/live/miriam/miriam123/98672.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BANG BANG
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68717?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BANG BANG
+http://mags.vip:2086/live/miriam/miriam123/93119.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BBF 3
+http://79.106.73.201:8200/play/a00h?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BBF MUSIC
+http://mags.vip:2086/live/miriam/miriam123/93120.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Music",BBF Music
+http://alontv.info:8000/live/ontvtest/172722/66.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Music",BBF Music HD AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/9064?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BBF musik
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/249?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",BESA TV
+http://cobra2016.dyndns.tv:1947/enjoyimcob_SkYpE/8LftLI6H71/485?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Baby TV
+http://alontv.info:8000/live/ontvtest/172722/249.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Baby Tv AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/9326?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Baby tv AL
+http://www.iptvhdtr.xyz:8080/necdet/necdet/101802?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Baby tv AL
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36687?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Balkanika
+http://alontv.info:8000/live/ontvtest/172722/76.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Bang Bang
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36676?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Bang Bang
+http://alontv.info:8000/live/ontvtest/172722/101.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Bang Bang (AL)
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulducRJdfwMAFdd-mWNEuyts/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Bang Bang AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/9351?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Besa TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36651?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Besa TV (AL)
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRuleDajdpMO8L-QyUKLtR1L9M/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Besa TV AL
+http://nordicone.is:2095/yeroo_2/wlEi_5YX81g/9069?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Music",Blu Music HD (AL)
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulWbbkBIqL5vFmBQSBqwHDX0/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Click Channel
+http://alontv.info:8000/live/ontvtest/172722/512.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Click TV
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68719?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Cufo
+http://alontv.info:8000/live/ontvtest/172722/100.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Cufo (AL)
+http://192.99.35.135:8080/play/S7E4UUHLlFLTU2XxTKRulYYkigY3X_NDNjTZrmKX21c/ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Cufo TV
+http://globaltv.life:8880/sfast@trial/oIb3fTcCuJ/68720?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Cufo TV
+http://titanlivetv.com:8080/AdagioRestream12a/7AgZxDId5S/36679?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Cufo TV
+http://ankastream.com:8080/NIKON-TELE/dG8OU56amncP/1311?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",DIELLI TV
+http://mags.vip:2086/live/miriam/miriam123/93126.ts?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EUR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/d8op3Wh.jpg" tvg-url="" group-title="",Ada TV
 https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="EUR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/d8op3Wh.jpg" tvg-url="" group-title="",Ada TV (1080p)
